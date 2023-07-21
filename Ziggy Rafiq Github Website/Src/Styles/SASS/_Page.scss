@@ -1,0 +1,26 @@
+/************************************************************************************************************
+*  COPYRIGHT BY ZIGGY RAFIQ (ZAHEER RAFIQ)
+*  LinkedIn Profile URL Address: https://www.linkedin.com/in/ziggyrafiq/ 
+*
+*  Website  :  	Ziggy Rafiq GitHub Website Project
+*  Date     :  	23/09/2022
+*  Author   :  	Ziggy Rafiq (https://www.ziggyrafiq.com)
+*  Notes    :  	
+*  Reminder :	PLEASE DO NOT CHANGE OR REMOVE AUTHOR NAME.
+*
+************************************************************************************************************/
+
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+		
+		background-image: $img-main-background;
+		background-repeat: repeat;
+		color:$colour-default-text;
+		font-size:$font-size-default;
+		font-family: $font-family-text;
+	}
